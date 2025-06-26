@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom'
 import { RxHamburgerMenu } from "react-icons/rx";
 
 function Navbar() {
@@ -19,8 +20,8 @@ function Navbar() {
 
                 <div className={`nav-collapse ${className}`}>
                     <ul className='nav-items-container'>
-                        <li className='nav-item'>Home</li>
-                        <li className='nav-item special-nav-item'>Find Doctors</li>
+                        <li className='nav-item'><Link className='link-item' to="/">Home</Link></li>
+                        <li className='nav-item special-nav-item'><Link className='link-item special-link-item' to="/doctorslist">Find Doctors</Link></li>
                         <li className='nav-item'>About Us</li>
                     </ul>
                     <div className='nav-btn-container'>
@@ -31,8 +32,8 @@ function Navbar() {
 
                 <div className='nav-items-desktop'>
                     <ul className='nav-items-container'>
-                        <li className='nav-item'>Home</li>
-                        <li className='nav-item special-nav-item'>Find Doctors</li>
+                        <li className='nav-item'><Link className='link-item' to="/">Home</Link></li>
+                        <li className='nav-item special-nav-item'><Link className='link-item special-link-item' to="/doctorslist">Find Doctors</Link></li>
                         <li className='nav-item'>About Us</li>
                     </ul>
                     <div className='nav-btn-container'>

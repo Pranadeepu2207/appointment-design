@@ -11,6 +11,16 @@ body{
   min-height:100vh;
 }
 
+.link-item{
+  text-decoration: none;
+  color: black;
+}
+
+.special-link-item{
+  text-decoration: none;
+  color: #3A643B;
+}
+
 
 .main-container{
   margin: 2rem 6rem;
