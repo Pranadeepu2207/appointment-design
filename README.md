@@ -11,22 +11,3 @@ immunity - https://res.cloudinary.com/dfsq067fd/image/upload/v1750829717/downloa
 haircare - https://res.cloudinary.com/dfsq067fd/image/upload/v1750829717/download_3_xclktb.png
 
 review-profile - https://res.cloudinary.com/dfsq067fd/image/upload/v1749641383/samples/smile.jpg
-
-20 January 2023
-Consulted for Skin care
-Might be bit early to confirm but yes I can see noticeable difference in my hairfall. will write again after using it for longer periods
-
-Select Location
-eg. Doctor, specialisation, clinic name
-
-
-4.5
-Dr. Prerna Narang
-Male-Female Infertility
-7 years of Experience
-Speaks: English, Hindi, Marathi
-Video Consultation
-Chat Consultation
-₹800
-Free
-View Profile
