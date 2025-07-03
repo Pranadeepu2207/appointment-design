@@ -6,7 +6,7 @@ Link to the project - https://appointment-design-xi.vercel.app
 
 Home/doctorProfile - https://appointment-design-xi.vercel.app/
 
-doctorlist - https://appointment-design-xi.vercel.app/doctorslist
+find doctores/doctorlist - https://appointment-design-xi.vercel.app/doctorslist
 
 # About Project
 
